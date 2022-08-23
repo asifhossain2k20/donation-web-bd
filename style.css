@@ -148,12 +148,12 @@ h2{
     display: flex;
 }
 .news-part img{
-    width: 400px;
+    width: 360px;
     height: 220px;
 }
 .news-small-part{
     height: 430px;
-    width: 400px;
+    width: 380px;
     margin: 10px;
     border-radius: 15px;
     padding: 10px;
